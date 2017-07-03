@@ -7,7 +7,6 @@ Suppose that we are faced with a situation where a still boat has alerted emerge
 The limitations that this radar inculude are:
 1. the area that this radar will search is bounded; i.e. it will "bounce" off if it hits the edge
 2. the radar can only move in a straight path
-<br />
 Once its mission is complete and was able to detect the boat, it will halt its motion and will display how much time (in sec) it took the radar to detect the boat.
 
 ## Pre-requisites and Requirements
