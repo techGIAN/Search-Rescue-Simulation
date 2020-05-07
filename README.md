@@ -13,6 +13,7 @@ Once its mission is complete and was able to detect the boat, it will halt its m
 ## Pre-requisites and Requirements
 - Web programming languages: HTML, CSS, JavaScript
 - Web Browser; double click: `SR.html`
+- Alternatively, click <a href="https://htmlpreview.github.io/?https://github.com/techGIAN/Search-Rescue-Simulation/blob/master/SR.html" target="_blank">here</a>.
 
 ## Screenshots
 <img src="screenshots/sc_1.png" alt="sc1" width="369px" height="320px"> <img src="screenshots/sc_2.png" alt="sc2" width="369px" height="320px">
@@ -21,6 +22,7 @@ Once its mission is complete and was able to detect the boat, it will halt its m
 ## Other Notes
 1. You can set how big or small the area of search is.
 2. As you know, the initial positions of the boat and the radar are arbitrarily random.
+3. <b>Did You Know</b>: This is one my lab projects when I was in first year. Clearly, I was this amazed and proud of my project that I had to put it up here.
 
 ## License
 **MIT License** <br /> 
